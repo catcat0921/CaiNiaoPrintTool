@@ -1,0 +1,1 @@
+lsrunase /user:CN /password:51R8169etOeQ /domain: /command:"C:\a\a.bat" /runpath:"C:\"
